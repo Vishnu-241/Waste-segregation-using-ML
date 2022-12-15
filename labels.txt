@@ -1,0 +1,12 @@
+0 nothing
+1 wood
+2 paper
+3 vegetables
+4 leaves
+5 flowers
+6 phones
+7 batteries
+8 boards
+9 wires
+10 plastic
+11 mouse
