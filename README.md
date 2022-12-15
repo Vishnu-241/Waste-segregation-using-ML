@@ -1,0 +1,2 @@
+# Waste-segregation-using-ML
+ 
